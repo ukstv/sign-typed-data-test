@@ -1,0 +1,19 @@
+{
+  "name": "sign-typed-data-test",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "eth-sig-util": "git+https://github.com/ukstv/eth-sig-util.git",
+    "truffle": "^3.4.9",
+    "truffle-contract": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC"
+}
